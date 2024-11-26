@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922422005267",
+    "project_id": "projekakhir-dceaf",
+    "storage_bucket": "projekakhir-dceaf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922422005267:android:8a28eda0b6958c9d9179e6",
+        "android_client_info": {
+          "package_name": "com.example.projekakhir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfInAEuCg2lomc9RPNjnkSHLbuk2KWm0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
